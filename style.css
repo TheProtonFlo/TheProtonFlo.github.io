@@ -1,0 +1,27 @@
+header{
+    margin: 0;
+    padding: 0;;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(16, 54, 54);
+}
+
+h1 {
+color: rgb(244, 236, 7);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 400%;
+margin-left: 20%;
+margin-right: 20%;
+}
+
+p {
+    color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+body {
+    background-color: #0b2023;
+}
